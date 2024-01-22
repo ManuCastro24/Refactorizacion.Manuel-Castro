@@ -7,3 +7,6 @@ Ejercicio 3 ############ Diseñar dos función que reciban como parámetros tres
 Ejercicio 4 ############ Crear una función que, mediante un booleano, indique si el carácter que se pasa como parámetro de entrada corresponde con una vocal. ############
 
 Ejercicio 5 ############ Un vector de 30 elementos contiene los nombres de 30 empleados y otro de características similares contiene las horas trabajadas por cada uno de ellos. Si la hora se paga a 20 €., calcular e imprimir lo que cobrará cada uno de ellos, así como el empleado que más gana y el que menos gana. ############
+
+
+Se ha modificado el ejercicio 1 de manera que se han cambiado los if y los else por un switch que tiene varios casos para seleccionar dependiendo de si lo que queremos es sumar,restar,multiplicar o dividir y así es mucho mas visible. 
